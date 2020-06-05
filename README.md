@@ -4,7 +4,7 @@
 
 Resource|Example Page|Date Added| Notes
 --|--|--|--
-[Guide to Pharmacology](https://www.guidetopharmacology.org/)| [COVID-19](https://www.guidetopharmacology.org/coronavirus.jsp) | 2020-05-07 |
+[Guide to Pharmacology](https://www.guidetopharmacology.org/)| [COVID-19](https://www.guidetopharmacology.org/coronavirus.jsp) | 2020-05-07 | Single dedicated page containing ligands (MolecularEntities) and proteins associated with COVID-19. Updated as and when new associations are known.
 
 ## Notes
 
