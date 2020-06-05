@@ -1,0 +1,3 @@
+<https://bioschemas.org/crawl/v1/guidetopharmacology/coronavirus/20200605/0> <http://purl.org/pav/retrievedFrom> <https://www.guidetopharmacology.org/coronavirus.jsp> <https://bioschemas.org/crawl/v1/guidetopharmacology/coronavirus/20200605/0> .
+<https://bioschemas.org/crawl/v1/guidetopharmacology/coronavirus/20200605/0> <http://purl.org/pav/retrievedOn> "2020-06-05T04:00:12"^^<http://www.w3.org/2001/XMLSchema#dateTime> <https://bioschemas.org/crawl/v1/guidetopharmacology/coronavirus/20200605/0> .
+<https://www.guidetopharmacology.org/coronavirus.jsp> <http://purl.org/dc/terms/title> "Coronavirus Information | IUPHAR/BPS Guide to PHARMACOLOGY" <https://bioschemas.org/crawl/v1/guidetopharmacology/coronavirus/20200605/0> .
