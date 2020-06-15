@@ -4,7 +4,8 @@
 
 Resource|Example Page|Date Added| Notes
 --|--|--|--
-[Guide to Pharmacology](https://www.guidetopharmacology.org/)| [COVID-19](https://www.guidetopharmacology.org/coronavirus.jsp) | 2020-05-07 | Single dedicated page containing ligands (MolecularEntities) and proteins associated with COVID-19. Updated as and when new associations are known.
+[Guide to Pharmacology](https://www.guidetopharmacology.org/) | [COVID-19](https://www.guidetopharmacology.org/coronavirus.jsp) | 2020-05-07 | Single dedicated page containing ligands (MolecularEntities) and proteins associated with COVID-19. Updated as and when new associations are known.
+[BridgeDb Gene Database](https://bridgedb.github.io/) | [COVID-19](https://bridgedb.github.io/data/gene_database/) | 2020-06-11 | Dedicated page containing Gene/Protein ID mapping databases
 
 ## Notes
 
