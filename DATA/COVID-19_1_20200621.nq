@@ -1,0 +1,145 @@
+<https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> <http://purl.org/pav/retrievedFrom> <https://bridgedb.github.io/data/gene_database> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> <http://purl.org/pav/retrievedOn> "2020-06-21T04:10:14"^^<http://www.w3.org/2001/XMLSchema#dateTime> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/WebPage> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database> <https://schema.org/description> "Repository to mimic the old data/gene_database/ API" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database> <https://schema.org/headline> "data" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database> <https://schema.org/url> <https://bridgedb.github.io/data/gene_database> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Dataset> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-1> <https://schema.org/description> "BridgeDb identifier mapping file for Anopheles gambiae" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-1> <https://schema.org/identifier> "10.5281/zenodo.3667670" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-1> <https://schema.org/keywords> "BridgeDb, mapping file, identifier, null" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-1> <https://schema.org/name> "Ag_Derby_Ensembl_Metazoa_39.bridge" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-1> <https://schema.org/url> <https://zenodo.org/record/3667670/files/Ag_Derby_Ensembl_Metazoa_39.bridge?download=1> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Dataset> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-2> <https://schema.org/description> "BridgeDb identifier mapping file for Arabidopsis thaliana" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-2> <https://schema.org/identifier> "10.5281/zenodo.3667670" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-2> <https://schema.org/keywords> "BridgeDb, mapping file, identifier, null" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-2> <https://schema.org/name> "At_Derby_Ensembl_Plant_39.bridge" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-2> <https://schema.org/url> <https://zenodo.org/record/3667670/files/At_Derby_Ensembl_Plant_39.bridge?download=1> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Dataset> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-3> <https://schema.org/description> "BridgeDb identifier mapping file for Bacillus subtilis" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-3> <https://schema.org/identifier> "10.5281/zenodo.3667670" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-3> <https://schema.org/keywords> "BridgeDb, mapping file, identifier, null" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-3> <https://schema.org/name> "Bs_Derby_Ensembl_91.bridge" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-3> <https://schema.org/url> <https://zenodo.org/record/3667670/files/Bs_Derby_Ensembl_91.bridge?download=1> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Dataset> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-4> <https://schema.org/description> "BridgeDb identifier mapping file for Bos taurus" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-4> <https://schema.org/identifier> "10.5281/zenodo.3667670" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-4> <https://schema.org/keywords> "BridgeDb, mapping file, identifier, null" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-4> <https://schema.org/name> "Bt_Derby_Ensembl_91.bridge" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-4> <https://schema.org/url> <https://zenodo.org/record/3667670/files/Bt_Derby_Ensembl_91.bridge?download=1> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Dataset> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-5> <https://schema.org/description> "BridgeDb identifier mapping file for Caenorhabditis elegans" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-5> <https://schema.org/identifier> "10.5281/zenodo.3667670" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-5> <https://schema.org/keywords> "BridgeDb, mapping file, identifier, null" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-5> <https://schema.org/name> "Ce_Derby_Ensembl_91.bridge" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-5> <https://schema.org/url> <https://zenodo.org/record/3667670/files/Ce_Derby_Ensembl_91.bridge?download=1> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Dataset> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-6> <https://schema.org/description> "BridgeDb identifier mapping file for Canis familiaris" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-6> <https://schema.org/identifier> "10.5281/zenodo.3667670" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-6> <https://schema.org/keywords> "BridgeDb, mapping file, identifier, null" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-6> <https://schema.org/name> "Cf_Derby_Ensembl_91.bridge" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-6> <https://schema.org/url> <https://zenodo.org/record/3667670/files/Cf_Derby_Ensembl_91.bridge?download=1> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Dataset> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-7> <https://schema.org/description> "BridgeDb identifier mapping file for Drosophila melanogaster" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-7> <https://schema.org/identifier> "10.5281/zenodo.3667670" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-7> <https://schema.org/keywords> "BridgeDb, mapping file, identifier, null" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-7> <https://schema.org/name> "Dm_Derby_Ensembl_91.bridge" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-7> <https://schema.org/url> <https://zenodo.org/record/3667670/files/Dm_Derby_Ensembl_91.bridge?download=1> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Dataset> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-8> <https://schema.org/description> "BridgeDb identifier mapping file for Danio rerio" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-8> <https://schema.org/identifier> "10.5281/zenodo.3667670" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-8> <https://schema.org/keywords> "BridgeDb, mapping file, identifier, null" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-8> <https://schema.org/name> "Dr_Derby_Ensembl_91.bridge" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-8> <https://schema.org/url> <https://zenodo.org/record/3667670/files/Dr_Derby_Ensembl_91.bridge?download=1> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Dataset> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-9> <https://schema.org/description> "BridgeDb identifier mapping file for Escherichia coli" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-9> <https://schema.org/identifier> "10.5281/zenodo.3667670" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-9> <https://schema.org/keywords> "BridgeDb, mapping file, identifier, null" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-9> <https://schema.org/name> "Ec_Derby_Ensembl_91.bridge" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-9> <https://schema.org/url> <https://zenodo.org/record/3667670/files/Ec_Derby_Ensembl_91.bridge?download=1> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Dataset> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-10> <https://schema.org/description> "BridgeDb identifier mapping file for Gallus gallus" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-10> <https://schema.org/identifier> "10.5281/zenodo.3667670" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-10> <https://schema.org/keywords> "BridgeDb, mapping file, identifier, null" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-10> <https://schema.org/name> "Gg_Derby_Ensembl_91.bridge" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-10> <https://schema.org/url> <https://zenodo.org/record/3667670/files/Gg_Derby_Ensembl_91.bridge?download=1> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Dataset> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-11> <https://schema.org/description> "BridgeDb identifier mapping file for Gibberella zeae" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-11> <https://schema.org/identifier> "10.5281/zenodo.3667670" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-11> <https://schema.org/keywords> "BridgeDb, mapping file, identifier, null" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-11> <https://schema.org/name> "Gz_Derby_Ensembl_Fungi_39.bridge" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-11> <https://schema.org/url> <https://zenodo.org/record/3667670/files/Gz_Derby_Ensembl_Fungi_39.bridge?download=1> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Dataset> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-12> <https://schema.org/description> "BridgeDb identifier mapping file for Homo sapiens" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-12> <https://schema.org/identifier> "10.5281/zenodo.3667670" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-12> <https://schema.org/keywords> "BridgeDb, mapping file, identifier, null" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-12> <https://schema.org/name> "Hs_Derby_Ensembl_91.bridge" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-12> <https://schema.org/url> <https://zenodo.org/record/3667670/files/Hs_Derby_Ensembl_91.bridge?download=1> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Dataset> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-13> <https://schema.org/description> "BridgeDb identifier mapping file for Mus musculus" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-13> <https://schema.org/identifier> "10.5281/zenodo.3667670" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-13> <https://schema.org/keywords> "BridgeDb, mapping file, identifier, null" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-13> <https://schema.org/name> "Mm_Derby_Ensembl_91.bridge" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-13> <https://schema.org/url> <https://zenodo.org/record/3667670/files/Mm_Derby_Ensembl_91.bridge?download=1> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Dataset> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-14> <https://schema.org/description> "BridgeDb identifier mapping file for Oryza japonica" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-14> <https://schema.org/identifier> "10.5281/zenodo.3667670" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-14> <https://schema.org/keywords> "BridgeDb, mapping file, identifier, null" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-14> <https://schema.org/name> "Oj_Derby_Ensembl_Plant_39.bridge" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-14> <https://schema.org/url> <https://zenodo.org/record/3667670/files/Oj_Derby_Ensembl_Plant_39.bridge?download=1> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Dataset> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-15> <https://schema.org/description> "BridgeDb identifier mapping file for Pan troglodytes" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-15> <https://schema.org/identifier> "10.5281/zenodo.3667670" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-15> <https://schema.org/keywords> "BridgeDb, mapping file, identifier, null" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-15> <https://schema.org/name> "Pt_Derby_Ensembl_91.bridge" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-15> <https://schema.org/url> <https://zenodo.org/record/3667670/files/Pt_Derby_Ensembl_91.bridge?download=1> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Dataset> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-16> <https://schema.org/description> "BridgeDb identifier mapping file for Rattus norvegicus" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-16> <https://schema.org/identifier> "10.5281/zenodo.3667670" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-16> <https://schema.org/keywords> "BridgeDb, mapping file, identifier, null" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-16> <https://schema.org/name> "Rn_Derby_Ensembl_91.bridge" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-16> <https://schema.org/url> <https://zenodo.org/record/3667670/files/Rn_Derby_Ensembl_91.bridge?download=1> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Dataset> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-17> <https://schema.org/description> "BridgeDb identifier mapping file for Saccharomyces cerevisiae" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-17> <https://schema.org/identifier> "10.5281/zenodo.3667670" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-17> <https://schema.org/keywords> "BridgeDb, mapping file, identifier, null" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-17> <https://schema.org/name> "Sc_Derby_Ensembl_91.bridge" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-17> <https://schema.org/url> <https://zenodo.org/record/3667670/files/Sc_Derby_Ensembl_91.bridge?download=1> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Dataset> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-18> <https://schema.org/description> "BridgeDb identifier mapping file for Zea mays" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-18> <https://schema.org/identifier> "10.5281/zenodo.3667670" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-18> <https://schema.org/keywords> "BridgeDb, mapping file, identifier, null" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-18> <https://schema.org/name> "Zm_Derby_Ensembl_Plant_39.bridge" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-18> <https://schema.org/url> <https://zenodo.org/record/3667670/files/Zm_Derby_Ensembl_Plant_39.bridge?download=1> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Dataset> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-19> <https://schema.org/description> "BridgeDb identifier mapping file for Human Coronaviruses" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-19> <https://schema.org/identifier> "10.5281/zenodo.3835696" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-19> <https://schema.org/keywords> "BridgeDb, mapping file, identifier, null" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-19> <https://schema.org/name> "humancorona-2020-05-20.bridge" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-19> <https://schema.org/url> <https://zenodo.org/record/3835696/files/humancorona-2020-05-20.bridge?download=1> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Dataset> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-20> <https://schema.org/description> "BridgeDb identifier mapping file for Complexes" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-20> <https://schema.org/identifier> "10.6084/m9.figshare.12278810.v1" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-20> <https://schema.org/keywords> "BridgeDb, mapping file, identifier, Complexes" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-20> <https://schema.org/name> "complexes_20200510.bridge" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-20> <https://schema.org/url> <https://ndownloader.figshare.com/files/22624346> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Dataset> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-21> <https://schema.org/description> "BridgeDb identifier mapping file for Interactions" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-21> <https://schema.org/identifier> "10.6084/m9.figshare.7782737.v1" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-21> <https://schema.org/keywords> "BridgeDb, mapping file, identifier, Interactions" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-21> <https://schema.org/name> "interactions20190228.bridge" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-21> <https://schema.org/url> <https://ndownloader.figshare.com/files/14488412> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Dataset> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-22> <https://schema.org/description> "BridgeDb identifier mapping file for Metabolites" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-22> <https://schema.org/identifier> "10.6084/m9.figshare.12458612.v1" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-22> <https://schema.org/keywords> "BridgeDb, mapping file, identifier, Metabolites" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-22> <https://schema.org/name> "metabolites_20200610.bridge" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-22> <https://schema.org/url> <https://ndownloader.figshare.com/files/23063135> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Dataset> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-23> <https://schema.org/description> "BridgeDb identifier mapping file for Publications" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-23> <https://schema.org/identifier> "10.6084/m9.figshare.12278693.v2" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-23> <https://schema.org/keywords> "BridgeDb, mapping file, identifier, Publications" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-23> <https://schema.org/name> "publications_20200510.bridge" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database-23> <https://schema.org/url> <https://ndownloader.figshare.com/files/22622720> <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
+<https://bridgedb.github.io/data/gene_database> <http://purl.org/dc/terms/title> "data | Repository to mimic the old data/gene_database/ API" <https://bioschemas.org/crawl/v1/bridgedb/gene_database/20200621/1> .
