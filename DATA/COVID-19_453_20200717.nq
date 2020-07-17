@@ -1,3 +1,0 @@
-<https://bioschemas.org/crawl/v1/test/portal/20200717/453> <http://purl.org/pav/retrievedFrom> <https://test.intermine.org/covidmine/portal.do?externalids=MT703884.1> <https://bioschemas.org/crawl/v1/test/portal/20200717/453> .
-<https://bioschemas.org/crawl/v1/test/portal/20200717/453> <http://purl.org/pav/retrievedOn> "2020-07-17T04:11:38"^^<http://www.w3.org/2001/XMLSchema#dateTime> <https://bioschemas.org/crawl/v1/test/portal/20200717/453> .
-<https://test.intermine.org/covidmine/portal.do?externalids=MT703884.1> <http://purl.org/dc/terms/title> "CovidMine: Home" <https://bioschemas.org/crawl/v1/test/portal/20200717/453> .
